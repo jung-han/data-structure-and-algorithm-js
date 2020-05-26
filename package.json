@@ -1,0 +1,26 @@
+{
+  "name": "data-structure-and-algorithm-js",
+  "version": "1.0.0",
+  "description": "Data Structure &amp; Algorithm implemented in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung-han/data-structure-and-algorithm-js.git"
+  },
+  "keywords": [
+    "algorithm",
+    "data-structure"
+  ],
+  "author": "jung-han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jung-han/data-structure-and-algorithm-js/issues"
+  },
+  "homepage": "https://github.com/jung-han/data-structure-and-algorithm-js#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
